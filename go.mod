@@ -1,4 +1,4 @@
-module github.com/yun10/tron-rpc
+module tron-rpc
 
 go 1.13
 
