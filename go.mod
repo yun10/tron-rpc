@@ -1,4 +1,4 @@
-module tron-rpc
+module tron
 
 go 1.13
 
